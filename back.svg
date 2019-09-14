@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg  version="1.1" width="500" height="240"
+viewBox="0 0 500 240"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events">
+
+    <title>My first SVG file</title>
+     <desc>
+       Red and yellow rectangles.
+       The yellow rectangle has a blue frame.
+     </desc>
+
+        <defs>
+
+        </defs>
+
+            <g id = "gr1" fill="yellow">
+                   <path d="M0,0 V 132 C245,8 292,265 500,132 V 0 H 0"/>
+            </g>
+
+ </svg>

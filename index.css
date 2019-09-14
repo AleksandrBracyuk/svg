@@ -1,0 +1,8 @@
+div.test-region{
+    margin: 100px;
+    width:700px;
+    height:400px;
+    border: 1px solid gray;
+    background-image: url(back.svg);
+    background-repeat: repeat-x;
+}
