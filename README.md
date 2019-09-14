@@ -17,3 +17,6 @@ https://svg-art.ru/?page_id=1009
 и как дописать path линиями - тут:
 https://developer.mozilla.org/ru/docs/Web/SVG/Tutorial/Paths
 
+
+Демо:
+https://htmlpreview.github.io/?https://github.com/AleksandrBracyuk/svg/blob/master/index.html
